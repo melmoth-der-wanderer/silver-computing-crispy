@@ -1,5 +1,4 @@
 // @ts-check
-const { devices } = require('@playwright/test');
 const loadEnv = require('dotenv').config;
 const path = require('path');
 
