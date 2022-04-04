@@ -1,0 +1,10 @@
+[ {
+  "name" : "GitHub Actions",
+  "type" : "github",
+  "url" : "https://melmoth-der-wanderer.github.io/silver-computing-crispy",
+  "buildOrder" : 3,
+  "buildName" : "GitHub Actions Run #2089774684",
+  "buildUrl" : "https://github.com/melmoth-der-wanderer/silver-computing-crispy/actions/runs/2089774684",
+  "reportName" : "Allure Report with history",
+  "reportUrl" : "https://melmoth-der-wanderer.github.io/silver-computing-crispy/3/"
+} ]

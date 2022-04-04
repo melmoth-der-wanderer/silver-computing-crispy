@@ -1,0 +1,406 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "children" : [ {
+    "name" : "feed_actions.spec.js",
+    "children" : [ {
+      "name" : "Feeds",
+      "children" : [ {
+        "name" : "Updating feed",
+        "uid" : "36af99196fbd620f",
+        "parentUid" : "35de7c91764b097b0cb387179f28e189",
+        "status" : "passed",
+        "time" : {
+          "start" : 1649074755928,
+          "stop" : 1649074757209,
+          "duration" : 1281
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Saving feed to bookmarks",
+        "uid" : "21f1bc98e874c60f",
+        "parentUid" : "35de7c91764b097b0cb387179f28e189",
+        "status" : "passed",
+        "time" : {
+          "start" : 1649074757209,
+          "stop" : 1649074759367,
+          "duration" : 2158
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "35de7c91764b097b0cb387179f28e189"
+    } ],
+    "uid" : "adbab5359b4e63bf07babce878d14af6"
+  }, {
+    "name" : "item_actions.spec.js",
+    "children" : [ {
+      "name" : "Items",
+      "children" : [ {
+        "name" : "Opening item from the feed",
+        "uid" : "a30b2e4aadce319b",
+        "parentUid" : "6275cdb67bfb050a86c6009b7dac2afb",
+        "status" : "passed",
+        "time" : {
+          "start" : 1649074759370,
+          "stop" : 1649074760634,
+          "duration" : 1264
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Commenting item",
+        "uid" : "c0f8c9e8e89b6b15",
+        "parentUid" : "6275cdb67bfb050a86c6009b7dac2afb",
+        "status" : "passed",
+        "time" : {
+          "start" : 1649074760634,
+          "stop" : 1649074762482,
+          "duration" : 1848
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "6275cdb67bfb050a86c6009b7dac2afb"
+    } ],
+    "uid" : "9b9b783467e47ce728ec7ebe94faf1b8"
+  }, {
+    "name" : "login.spec.js",
+    "children" : [ {
+      "name" : "Login",
+      "children" : [ {
+        "name" : "Successful login",
+        "uid" : "17b00f2ad8f23ff",
+        "parentUid" : "c2b0406d6611dd675ff78652fc3a9e5a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1649074762567,
+          "stop" : 1649074763002,
+          "duration" : 435
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "c2b0406d6611dd675ff78652fc3a9e5a"
+    } ],
+    "uid" : "9bad315c6ea30be0bdba6c20fd97334d"
+  }, {
+    "name" : "new_feed.spec.js",
+    "children" : [ {
+      "name" : "Feeds",
+      "children" : [ {
+        "name" : "Adding a new feed",
+        "uid" : "73957123beb8ceca",
+        "parentUid" : "6df30fe04ec6748388da2e3fba4721b6",
+        "status" : "passed",
+        "time" : {
+          "start" : 1649074763004,
+          "stop" : 1649074763849,
+          "duration" : 845
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "6df30fe04ec6748388da2e3fba4721b6"
+    } ],
+    "uid" : "fc69d2d0c1cc27f22e5b4a7952c21ca7"
+  }, {
+    "name" : "signUp.spec.js",
+    "children" : [ {
+      "name" : "Sign Up",
+      "children" : [ {
+        "name" : "Successful sign up",
+        "uid" : "495fb1fefb5d5a04",
+        "parentUid" : "6f5269c080b7b2ec8c9c4359d7ab0b31",
+        "status" : "passed",
+        "time" : {
+          "start" : 1649074763851,
+          "stop" : 1649074764284,
+          "duration" : 433
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "6f5269c080b7b2ec8c9c4359d7ab0b31"
+    } ],
+    "uid" : "13f18fb042059a1c130648e9bc075e73"
+  }, {
+    "name" : "webkit",
+    "children" : [ {
+      "name" : "feed_actions.spec.js",
+      "children" : [ {
+        "name" : "Feeds",
+        "children" : [ {
+          "name" : "Updating feed",
+          "uid" : "3298b03d164782d3",
+          "parentUid" : "3369c384e62ca08fca04ef9d8a305d20",
+          "status" : "passed",
+          "time" : {
+            "start" : 1649074767150,
+            "stop" : 1649074773719,
+            "duration" : 6569
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "Saving feed to bookmarks",
+          "uid" : "707fa1eb176ac363",
+          "parentUid" : "3369c384e62ca08fca04ef9d8a305d20",
+          "status" : "passed",
+          "time" : {
+            "start" : 1649074773719,
+            "stop" : 1649074774952,
+            "duration" : 1233
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "3369c384e62ca08fca04ef9d8a305d20"
+      } ],
+      "uid" : "35d6d8f425e15b4229ee9579256715d4"
+    }, {
+      "name" : "item_actions.spec.js",
+      "children" : [ {
+        "name" : "Items",
+        "children" : [ {
+          "name" : "Opening item from the feed",
+          "uid" : "4e216147e2bb248",
+          "parentUid" : "4529a81eed73d112e6c88a329944a3c4",
+          "status" : "passed",
+          "time" : {
+            "start" : 1649074774962,
+            "stop" : 1649074776399,
+            "duration" : 1437
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "Commenting item",
+          "uid" : "47c92596207bf030",
+          "parentUid" : "4529a81eed73d112e6c88a329944a3c4",
+          "status" : "passed",
+          "time" : {
+            "start" : 1649074776399,
+            "stop" : 1649074777940,
+            "duration" : 1541
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "4529a81eed73d112e6c88a329944a3c4"
+      } ],
+      "uid" : "a5f99ce6119c303b41090627198042e9"
+    }, {
+      "name" : "login.spec.js",
+      "children" : [ {
+        "name" : "Login",
+        "children" : [ {
+          "name" : "Successful login",
+          "uid" : "7f7f891c7f1b8c3b",
+          "parentUid" : "3b4b91c8147e01f90de421888f03770f",
+          "status" : "passed",
+          "time" : {
+            "start" : 1649074778023,
+            "stop" : 1649074778553,
+            "duration" : 530
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "3b4b91c8147e01f90de421888f03770f"
+      } ],
+      "uid" : "5a7b7b8d4ae33c72c2ba12982cc1f910"
+    }, {
+      "name" : "new_feed.spec.js",
+      "children" : [ {
+        "name" : "Feeds",
+        "children" : [ {
+          "name" : "Adding a new feed",
+          "uid" : "426617f9bc73405c",
+          "parentUid" : "e142cccd222e35726351d9e3b6857e71",
+          "status" : "passed",
+          "time" : {
+            "start" : 1649074778554,
+            "stop" : 1649074779317,
+            "duration" : 763
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "e142cccd222e35726351d9e3b6857e71"
+      } ],
+      "uid" : "29dfc19174cd878bd9a39f6334a63e08"
+    }, {
+      "name" : "signUp.spec.js",
+      "children" : [ {
+        "name" : "Sign Up",
+        "children" : [ {
+          "name" : "Successful sign up",
+          "uid" : "1b4605e239ebb45f",
+          "parentUid" : "af6d087728062ccd86e6f18238958874",
+          "status" : "passed",
+          "time" : {
+            "start" : 1649074779319,
+            "stop" : 1649074779862,
+            "duration" : 543
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "af6d087728062ccd86e6f18238958874"
+      } ],
+      "uid" : "17ac1e7549e863a543b5d272975f2d76"
+    } ],
+    "uid" : "44063b3706d66b0d346705a4a77c6704"
+  }, {
+    "name" : "firefox",
+    "children" : [ {
+      "name" : "feed_actions.spec.js",
+      "children" : [ {
+        "name" : "Feeds",
+        "children" : [ {
+          "name" : "Updating feed",
+          "uid" : "f2d2b7eb1fb16874",
+          "parentUid" : "26559234b13ee8635cc5a5b459cd84df",
+          "status" : "passed",
+          "time" : {
+            "start" : 1649074782886,
+            "stop" : 1649074787044,
+            "duration" : 4158
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "Saving feed to bookmarks",
+          "uid" : "508cdaa02f2e09d5",
+          "parentUid" : "26559234b13ee8635cc5a5b459cd84df",
+          "status" : "passed",
+          "time" : {
+            "start" : 1649074787044,
+            "stop" : 1649074788495,
+            "duration" : 1451
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "26559234b13ee8635cc5a5b459cd84df"
+      } ],
+      "uid" : "e51e3b27a84b3eeab92f5abe6fe11918"
+    }, {
+      "name" : "item_actions.spec.js",
+      "children" : [ {
+        "name" : "Items",
+        "children" : [ {
+          "name" : "Opening item from the feed",
+          "uid" : "526ccbfc0697e627",
+          "parentUid" : "06688aacd078ff7ce78a003bc9faa22a",
+          "status" : "passed",
+          "time" : {
+            "start" : 1649074788499,
+            "stop" : 1649074790022,
+            "duration" : 1523
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "Commenting item",
+          "uid" : "e5065155bb4b3a31",
+          "parentUid" : "06688aacd078ff7ce78a003bc9faa22a",
+          "status" : "passed",
+          "time" : {
+            "start" : 1649074790022,
+            "stop" : 1649074794065,
+            "duration" : 4043
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "06688aacd078ff7ce78a003bc9faa22a"
+      } ],
+      "uid" : "c61f460886729eb9dd21a2d96811b7d5"
+    }, {
+      "name" : "login.spec.js",
+      "children" : [ {
+        "name" : "Login",
+        "children" : [ {
+          "name" : "Successful login",
+          "uid" : "3dfa673dcf6a64af",
+          "parentUid" : "8c516ffccd5846d575980bc39a483cec",
+          "status" : "passed",
+          "time" : {
+            "start" : 1649074794178,
+            "stop" : 1649074794865,
+            "duration" : 687
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "8c516ffccd5846d575980bc39a483cec"
+      } ],
+      "uid" : "70e3245fceb81d503eb9408ab15ce1e3"
+    }, {
+      "name" : "new_feed.spec.js",
+      "children" : [ {
+        "name" : "Feeds",
+        "children" : [ {
+          "name" : "Adding a new feed",
+          "uid" : "8735fa7c0f7b0aaf",
+          "parentUid" : "6b1c01ae881ab3a7bca6f6553a23a05c",
+          "status" : "passed",
+          "time" : {
+            "start" : 1649074794867,
+            "stop" : 1649074796115,
+            "duration" : 1248
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "6b1c01ae881ab3a7bca6f6553a23a05c"
+      } ],
+      "uid" : "6f319513dc735df2f4150cfa6592c42f"
+    }, {
+      "name" : "signUp.spec.js",
+      "children" : [ {
+        "name" : "Sign Up",
+        "children" : [ {
+          "name" : "Successful sign up",
+          "uid" : "b1c4913a0c9614cc",
+          "parentUid" : "2d9aff4df3d35630e771bd7442af0471",
+          "status" : "passed",
+          "time" : {
+            "start" : 1649074796117,
+            "stop" : 1649074796980,
+            "duration" : 863
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "2d9aff4df3d35630e771bd7442af0471"
+      } ],
+      "uid" : "cdeaf65c968b1a71e51822b11e000bb0"
+    } ],
+    "uid" : "ed39c131db56604842b18253a0c76267"
+  } ],
+  "name" : "suites"
+}

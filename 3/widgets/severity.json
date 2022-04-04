@@ -1,0 +1,211 @@
+[ {
+  "uid" : "a30b2e4aadce319b",
+  "name" : "Opening item from the feed",
+  "time" : {
+    "start" : 1649074759370,
+    "stop" : 1649074760634,
+    "duration" : 1264
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4e216147e2bb248",
+  "name" : "Opening item from the feed",
+  "time" : {
+    "start" : 1649074774962,
+    "stop" : 1649074776399,
+    "duration" : 1437
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "495fb1fefb5d5a04",
+  "name" : "Successful sign up",
+  "time" : {
+    "start" : 1649074763851,
+    "stop" : 1649074764284,
+    "duration" : 433
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "526ccbfc0697e627",
+  "name" : "Opening item from the feed",
+  "time" : {
+    "start" : 1649074788499,
+    "stop" : 1649074790022,
+    "duration" : 1523
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "36af99196fbd620f",
+  "name" : "Updating feed",
+  "time" : {
+    "start" : 1649074755928,
+    "stop" : 1649074757209,
+    "duration" : 1281
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e5065155bb4b3a31",
+  "name" : "Commenting item",
+  "time" : {
+    "start" : 1649074790022,
+    "stop" : 1649074794065,
+    "duration" : 4043
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b1c4913a0c9614cc",
+  "name" : "Successful sign up",
+  "time" : {
+    "start" : 1649074796117,
+    "stop" : 1649074796980,
+    "duration" : 863
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "21f1bc98e874c60f",
+  "name" : "Saving feed to bookmarks",
+  "time" : {
+    "start" : 1649074757209,
+    "stop" : 1649074759367,
+    "duration" : 2158
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7f7f891c7f1b8c3b",
+  "name" : "Successful login",
+  "time" : {
+    "start" : 1649074778023,
+    "stop" : 1649074778553,
+    "duration" : 530
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "508cdaa02f2e09d5",
+  "name" : "Saving feed to bookmarks",
+  "time" : {
+    "start" : 1649074787044,
+    "stop" : 1649074788495,
+    "duration" : 1451
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c0f8c9e8e89b6b15",
+  "name" : "Commenting item",
+  "time" : {
+    "start" : 1649074760634,
+    "stop" : 1649074762482,
+    "duration" : 1848
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1b4605e239ebb45f",
+  "name" : "Successful sign up",
+  "time" : {
+    "start" : 1649074779319,
+    "stop" : 1649074779862,
+    "duration" : 543
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f2d2b7eb1fb16874",
+  "name" : "Updating feed",
+  "time" : {
+    "start" : 1649074782886,
+    "stop" : 1649074787044,
+    "duration" : 4158
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "707fa1eb176ac363",
+  "name" : "Saving feed to bookmarks",
+  "time" : {
+    "start" : 1649074773719,
+    "stop" : 1649074774952,
+    "duration" : 1233
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "426617f9bc73405c",
+  "name" : "Adding a new feed",
+  "time" : {
+    "start" : 1649074778554,
+    "stop" : 1649074779317,
+    "duration" : 763
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "73957123beb8ceca",
+  "name" : "Adding a new feed",
+  "time" : {
+    "start" : 1649074763004,
+    "stop" : 1649074763849,
+    "duration" : 845
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3dfa673dcf6a64af",
+  "name" : "Successful login",
+  "time" : {
+    "start" : 1649074794178,
+    "stop" : 1649074794865,
+    "duration" : 687
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "17b00f2ad8f23ff",
+  "name" : "Successful login",
+  "time" : {
+    "start" : 1649074762567,
+    "stop" : 1649074763002,
+    "duration" : 435
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "47c92596207bf030",
+  "name" : "Commenting item",
+  "time" : {
+    "start" : 1649074776399,
+    "stop" : 1649074777940,
+    "duration" : 1541
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3298b03d164782d3",
+  "name" : "Updating feed",
+  "time" : {
+    "start" : 1649074767150,
+    "stop" : 1649074773719,
+    "duration" : 6569
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8735fa7c0f7b0aaf",
+  "name" : "Adding a new feed",
+  "time" : {
+    "start" : 1649074794867,
+    "stop" : 1649074796115,
+    "duration" : 1248
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]
