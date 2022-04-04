@@ -3,7 +3,6 @@ test-results/
 playwright-report/
 allure-report/
 allure-results/
-logged_user.json
 .DS_Store
 .idea/
 src/tmp
